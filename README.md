@@ -26,6 +26,7 @@
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?logo=google-colab&style=flat-square&logoColor=white)](https://colab.research.google.com/)
 [![pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&style=flat-square&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&style=flat-square&logoColor=white)](https://numpy.org/)
+[![CSV](https://img.shields.io/badge/CSV-%230070D0.svg?style=flat-square&logo=csv&logoColor=white)](https://en.wikipedia.org/wiki/Comma-separated_values)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23D81B60.svg?logo=matplotlib&style=flat-square&logoColor=white)](https://matplotlib.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?logo=scikit-learn&style=flat-square&logoColor=white)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&style=flat-square&logoColor=white)](https://www.tensorflow.org/)
