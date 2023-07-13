@@ -21,6 +21,7 @@
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&style=flat-square&logoColor=white)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/Tkinter-8.6-blue.svg)](https://docs.python.org/3/library/tkinter.html)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23576D90.svg?logo=streamlit&style=flat-square&logoColor=white)](https://streamlit.io/)
+[![Netlify](https://img.shields.io/badge/Netlify-%2300ad9f.svg?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&style=flat-square&logoColor=white)](https://www.anaconda.com/)
 [![Spyder](https://img.shields.io/badge/Spyder-%23FF0000.svg?logo=spyder-ide&style=flat-square&logoColor=white)](https://www.spyder-ide.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&style=flat-square&logoColor=white)](https://jupyter.org/)
