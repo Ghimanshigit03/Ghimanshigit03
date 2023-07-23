@@ -6,7 +6,7 @@
 </div>
 <h3 align="center">I'm a Machine Learning enthusiast 💻, a mentor ⭐ , a coder and an Artist 🎨🖌</h3>
 <h1 align="center">ABOUT</h1>
-<h4>I'm a second-year B.Tech Computer Science student 👩‍💻, 🌟 Coding enthusiast exploring new possibilities and constantly developing my technical skills 🚀. Aside from my academic pursuits 🎓 , I'm an active member of various societies, including the art 🎨, mentoring 🤝, and management 📊 societies 🌈. 💡 These involvements provide me with a well-rounded perspective and opportunities to engage in diverse activities beyond the scope of my core studies ✨
+<h4>I'm a third-year B.Tech Computer Science student 👩‍💻, 🌟 Coding enthusiast exploring new possibilities and constantly developing my technical skills 🚀. Aside from my academic pursuits 🎓 , I'm an active member of various societies, including the art 🎨, mentoring 🤝, and management 📊 societies 🌈. 💡 These involvements provide me with a well-rounded perspective and opportunities to engage in diverse activities beyond the scope of my core studies ✨
 
 </div></h4>
 
